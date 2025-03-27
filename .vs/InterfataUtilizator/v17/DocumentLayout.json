@@ -1,0 +1,347 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\Proiect_BD\\Proiect_BD_Bun\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A88AB567-8F41-4BE0-A1FA-D07465F7DAF2}|InterfataUtilizator\\InterfataUtilizator.csproj|g:\\proiect_bd\\proiect_bd_bun\\interfatautilizator\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A88AB567-8F41-4BE0-A1FA-D07465F7DAF2}|InterfataUtilizator\\InterfataUtilizator.csproj|solutionrelative:interfatautilizator\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A88AB567-8F41-4BE0-A1FA-D07465F7DAF2}|InterfataUtilizator\\InterfataUtilizator.csproj|G:\\Proiect_BD\\Proiect_BD_Bun\\interfatautilizator\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A88AB567-8F41-4BE0-A1FA-D07465F7DAF2}|InterfataUtilizator\\InterfataUtilizator.csproj|solutionrelative:interfatautilizator\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A88AB567-8F41-4BE0-A1FA-D07465F7DAF2}|InterfataUtilizator\\InterfataUtilizator.csproj|g:\\proiect_bd\\proiect_bd_bun\\interfatautilizator\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A88AB567-8F41-4BE0-A1FA-D07465F7DAF2}|InterfataUtilizator\\InterfataUtilizator.csproj|solutionrelative:interfatautilizator\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A88AB567-8F41-4BE0-A1FA-D07465F7DAF2}|InterfataUtilizator\\InterfataUtilizator.csproj|g:\\proiect_bd\\proiect_bd_bun\\interfatautilizator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A88AB567-8F41-4BE0-A1FA-D07465F7DAF2}|InterfataUtilizator\\InterfataUtilizator.csproj|solutionrelative:interfatautilizator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E23975C1-D318-415F-AE41-BBE590EE36E4}|LibrarieModele\\LibrarieModele.csproj|g:\\proiect_bd\\proiect_bd_bun\\librariemodele\\cabane.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E23975C1-D318-415F-AE41-BBE590EE36E4}|LibrarieModele\\LibrarieModele.csproj|solutionrelative:librariemodele\\cabane.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A88AB567-8F41-4BE0-A1FA-D07465F7DAF2}|InterfataUtilizator\\InterfataUtilizator.csproj|g:\\proiect_bd\\proiect_bd_bun\\interfatautilizator\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A88AB567-8F41-4BE0-A1FA-D07465F7DAF2}|InterfataUtilizator\\InterfataUtilizator.csproj|solutionrelative:interfatautilizator\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A88AB567-8F41-4BE0-A1FA-D07465F7DAF2}|InterfataUtilizator\\InterfataUtilizator.csproj|g:\\proiect_bd\\proiect_bd_bun\\interfatautilizator\\interfatautilizator.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A88AB567-8F41-4BE0-A1FA-D07465F7DAF2}|InterfataUtilizator\\InterfataUtilizator.csproj|solutionrelative:interfatautilizator\\interfatautilizator.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A88AB567-8F41-4BE0-A1FA-D07465F7DAF2}|InterfataUtilizator\\InterfataUtilizator.csproj|g:\\proiect_bd\\proiect_bd_bun\\interfatautilizator\\stocarefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A88AB567-8F41-4BE0-A1FA-D07465F7DAF2}|InterfataUtilizator\\InterfataUtilizator.csproj|solutionrelative:interfatautilizator\\stocarefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A88AB567-8F41-4BE0-A1FA-D07465F7DAF2}|InterfataUtilizator\\InterfataUtilizator.csproj|G:\\Proiect_BD\\Proiect_BD_Bun\\interfatautilizator\\mainform.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{A88AB567-8F41-4BE0-A1FA-D07465F7DAF2}|InterfataUtilizator\\InterfataUtilizator.csproj|solutionrelative:interfatautilizator\\mainform.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38BFF758-72A7-4D07-8733-DC4C63319016}|NivelAccesDate\\NivelAccesDate.csproj|g:\\proiect_bd\\proiect_bd_bun\\nivelaccesdate\\istocarerezervari.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38BFF758-72A7-4D07-8733-DC4C63319016}|NivelAccesDate\\NivelAccesDate.csproj|solutionrelative:nivelaccesdate\\istocarerezervari.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38BFF758-72A7-4D07-8733-DC4C63319016}|NivelAccesDate\\NivelAccesDate.csproj|g:\\proiect_bd\\proiect_bd_bun\\nivelaccesdate\\sqldbhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38BFF758-72A7-4D07-8733-DC4C63319016}|NivelAccesDate\\NivelAccesDate.csproj|solutionrelative:nivelaccesdate\\sqldbhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38BFF758-72A7-4D07-8733-DC4C63319016}|NivelAccesDate\\NivelAccesDate.csproj|g:\\proiect_bd\\proiect_bd_bun\\nivelaccesdate\\administrarerezervari.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38BFF758-72A7-4D07-8733-DC4C63319016}|NivelAccesDate\\NivelAccesDate.csproj|solutionrelative:nivelaccesdate\\administrarerezervari.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38BFF758-72A7-4D07-8733-DC4C63319016}|NivelAccesDate\\NivelAccesDate.csproj|g:\\proiect_bd\\proiect_bd_bun\\nivelaccesdate\\administrareclienti.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38BFF758-72A7-4D07-8733-DC4C63319016}|NivelAccesDate\\NivelAccesDate.csproj|solutionrelative:nivelaccesdate\\administrareclienti.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38BFF758-72A7-4D07-8733-DC4C63319016}|NivelAccesDate\\NivelAccesDate.csproj|g:\\proiect_bd\\proiect_bd_bun\\nivelaccesdate\\istocareclienti.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38BFF758-72A7-4D07-8733-DC4C63319016}|NivelAccesDate\\NivelAccesDate.csproj|solutionrelative:nivelaccesdate\\istocareclienti.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38BFF758-72A7-4D07-8733-DC4C63319016}|NivelAccesDate\\NivelAccesDate.csproj|g:\\proiect_bd\\proiect_bd_bun\\nivelaccesdate\\istocarefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38BFF758-72A7-4D07-8733-DC4C63319016}|NivelAccesDate\\NivelAccesDate.csproj|solutionrelative:nivelaccesdate\\istocarefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38BFF758-72A7-4D07-8733-DC4C63319016}|NivelAccesDate\\NivelAccesDate.csproj|g:\\proiect_bd\\proiect_bd_bun\\nivelaccesdate\\istocarecabane.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38BFF758-72A7-4D07-8733-DC4C63319016}|NivelAccesDate\\NivelAccesDate.csproj|solutionrelative:nivelaccesdate\\istocarecabane.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38BFF758-72A7-4D07-8733-DC4C63319016}|NivelAccesDate\\NivelAccesDate.csproj|g:\\proiect_bd\\proiect_bd_bun\\nivelaccesdate\\administrarecabane.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38BFF758-72A7-4D07-8733-DC4C63319016}|NivelAccesDate\\NivelAccesDate.csproj|solutionrelative:nivelaccesdate\\administrarecabane.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E23975C1-D318-415F-AE41-BBE590EE36E4}|LibrarieModele\\LibrarieModele.csproj|g:\\proiect_bd\\proiect_bd_bun\\librariemodele\\rezervari.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E23975C1-D318-415F-AE41-BBE590EE36E4}|LibrarieModele\\LibrarieModele.csproj|solutionrelative:librariemodele\\rezervari.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E23975C1-D318-415F-AE41-BBE590EE36E4}|LibrarieModele\\LibrarieModele.csproj|g:\\proiect_bd\\proiect_bd_bun\\librariemodele\\clienti.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E23975C1-D318-415F-AE41-BBE590EE36E4}|LibrarieModele\\LibrarieModele.csproj|solutionrelative:librariemodele\\clienti.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38BFF758-72A7-4D07-8733-DC4C63319016}|NivelAccesDate\\NivelAccesDate.csproj|g:\\proiect_bd\\proiect_bd_bun\\nivelaccesdate\\nivelaccesdate.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{38BFF758-72A7-4D07-8733-DC4C63319016}|NivelAccesDate\\NivelAccesDate.csproj|solutionrelative:nivelaccesdate\\nivelaccesdate.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "InterfataUtilizator.csproj",
+              "DocumentMoniker": "G:\\Proiect_BD\\Proiect_BD_Bun\\InterfataUtilizator\\InterfataUtilizator.csproj",
+              "RelativeDocumentMoniker": "InterfataUtilizator\\InterfataUtilizator.csproj",
+              "ToolTip": "G:\\Proiect_BD\\Proiect_BD_Bun\\InterfataUtilizator\\InterfataUtilizator.csproj",
+              "RelativeToolTip": "InterfataUtilizator\\InterfataUtilizator.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-24T20:00:16.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\Proiect_BD\\Proiect_BD_Bun\\InterfataUtilizator\\Program.cs",
+              "RelativeDocumentMoniker": "InterfataUtilizator\\Program.cs",
+              "ToolTip": "G:\\Proiect_BD\\Proiect_BD_Bun\\InterfataUtilizator\\Program.cs",
+              "RelativeToolTip": "InterfataUtilizator\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T12:28:13.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StocareFactory.cs",
+              "DocumentMoniker": "G:\\Proiect_BD\\Proiect_BD_Bun\\InterfataUtilizator\\StocareFactory.cs",
+              "RelativeDocumentMoniker": "InterfataUtilizator\\StocareFactory.cs",
+              "ToolTip": "G:\\Proiect_BD\\Proiect_BD_Bun\\InterfataUtilizator\\StocareFactory.cs",
+              "RelativeToolTip": "InterfataUtilizator\\StocareFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T15:38:38.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainForm.Designer.cs",
+              "DocumentMoniker": "G:\\Proiect_BD\\Proiect_BD_Bun\\InterfataUtilizator\\MainForm.Designer.cs",
+              "RelativeDocumentMoniker": "InterfataUtilizator\\MainForm.Designer.cs",
+              "ToolTip": "G:\\Proiect_BD\\Proiect_BD_Bun\\InterfataUtilizator\\MainForm.Designer.cs",
+              "RelativeToolTip": "InterfataUtilizator\\MainForm.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T19:53:38.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.config",
+              "DocumentMoniker": "G:\\Proiect_BD\\Proiect_BD_Bun\\InterfataUtilizator\\App.config",
+              "RelativeDocumentMoniker": "InterfataUtilizator\\App.config",
+              "ToolTip": "G:\\Proiect_BD\\Proiect_BD_Bun\\InterfataUtilizator\\App.config",
+              "RelativeToolTip": "InterfataUtilizator\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAACTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-05-23T12:28:12.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "G:\\Proiect_BD\\Proiect_BD_Bun\\InterfataUtilizator\\MainForm.cs",
+              "RelativeDocumentMoniker": "InterfataUtilizator\\MainForm.cs",
+              "ToolTip": "G:\\Proiect_BD\\Proiect_BD_Bun\\InterfataUtilizator\\MainForm.cs",
+              "RelativeToolTip": "InterfataUtilizator\\MainForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T12:28:12.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainForm.resx",
+              "DocumentMoniker": "G:\\Proiect_BD\\Proiect_BD_Bun\\InterfataUtilizator\\MainForm.resx",
+              "RelativeDocumentMoniker": "InterfataUtilizator\\MainForm.resx",
+              "ToolTip": "G:\\Proiect_BD\\Proiect_BD_Bun\\InterfataUtilizator\\MainForm.resx",
+              "RelativeToolTip": "InterfataUtilizator\\MainForm.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-05-24T19:59:47.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "G:\\Proiect_BD\\Proiect_BD_Bun\\InterfataUtilizator\\MainForm.cs",
+              "RelativeDocumentMoniker": "InterfataUtilizator\\MainForm.cs",
+              "ToolTip": "G:\\Proiect_BD\\Proiect_BD_Bun\\InterfataUtilizator\\MainForm.cs [Design]",
+              "RelativeToolTip": "InterfataUtilizator\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T12:28:13.875Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IStocareRezervari.cs",
+              "DocumentMoniker": "G:\\Proiect_BD\\Proiect_BD_Bun\\NivelAccesDate\\IStocareRezervari.cs",
+              "RelativeDocumentMoniker": "NivelAccesDate\\IStocareRezervari.cs",
+              "ToolTip": "G:\\Proiect_BD\\Proiect_BD_Bun\\NivelAccesDate\\IStocareRezervari.cs",
+              "RelativeToolTip": "NivelAccesDate\\IStocareRezervari.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T12:28:13.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SQLDbHelper.cs",
+              "DocumentMoniker": "G:\\Proiect_BD\\Proiect_BD_Bun\\NivelAccesDate\\SQLDbHelper.cs",
+              "RelativeDocumentMoniker": "NivelAccesDate\\SQLDbHelper.cs",
+              "ToolTip": "G:\\Proiect_BD\\Proiect_BD_Bun\\NivelAccesDate\\SQLDbHelper.cs",
+              "RelativeToolTip": "NivelAccesDate\\SQLDbHelper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T12:28:13.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AdministrareRezervari.cs",
+              "DocumentMoniker": "G:\\Proiect_BD\\Proiect_BD_Bun\\NivelAccesDate\\AdministrareRezervari.cs",
+              "RelativeDocumentMoniker": "NivelAccesDate\\AdministrareRezervari.cs",
+              "ToolTip": "G:\\Proiect_BD\\Proiect_BD_Bun\\NivelAccesDate\\AdministrareRezervari.cs",
+              "RelativeToolTip": "NivelAccesDate\\AdministrareRezervari.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T12:28:13.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AdministrareClienti.cs",
+              "DocumentMoniker": "G:\\Proiect_BD\\Proiect_BD_Bun\\NivelAccesDate\\AdministrareClienti.cs",
+              "RelativeDocumentMoniker": "NivelAccesDate\\AdministrareClienti.cs",
+              "ToolTip": "G:\\Proiect_BD\\Proiect_BD_Bun\\NivelAccesDate\\AdministrareClienti.cs",
+              "RelativeToolTip": "NivelAccesDate\\AdministrareClienti.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAoAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T15:38:32.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Cabane.cs",
+              "DocumentMoniker": "G:\\Proiect_BD\\Proiect_BD_Bun\\LibrarieModele\\Cabane.cs",
+              "RelativeDocumentMoniker": "LibrarieModele\\Cabane.cs",
+              "ToolTip": "G:\\Proiect_BD\\Proiect_BD_Bun\\LibrarieModele\\Cabane.cs",
+              "RelativeToolTip": "LibrarieModele\\Cabane.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T15:38:21.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IStocareClienti.cs",
+              "DocumentMoniker": "G:\\Proiect_BD\\Proiect_BD_Bun\\NivelAccesDate\\IStocareClienti.cs",
+              "RelativeDocumentMoniker": "NivelAccesDate\\IStocareClienti.cs",
+              "ToolTip": "G:\\Proiect_BD\\Proiect_BD_Bun\\NivelAccesDate\\IStocareClienti.cs",
+              "RelativeToolTip": "NivelAccesDate\\IStocareClienti.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T15:38:35.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IStocareFactory.cs",
+              "DocumentMoniker": "G:\\Proiect_BD\\Proiect_BD_Bun\\NivelAccesDate\\IStocareFactory.cs",
+              "RelativeDocumentMoniker": "NivelAccesDate\\IStocareFactory.cs",
+              "ToolTip": "G:\\Proiect_BD\\Proiect_BD_Bun\\NivelAccesDate\\IStocareFactory.cs",
+              "RelativeToolTip": "NivelAccesDate\\IStocareFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T15:38:34.962Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IStocareCabane.cs",
+              "DocumentMoniker": "G:\\Proiect_BD\\Proiect_BD_Bun\\NivelAccesDate\\IStocareCabane.cs",
+              "RelativeDocumentMoniker": "NivelAccesDate\\IStocareCabane.cs",
+              "ToolTip": "G:\\Proiect_BD\\Proiect_BD_Bun\\NivelAccesDate\\IStocareCabane.cs",
+              "RelativeToolTip": "NivelAccesDate\\IStocareCabane.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T15:38:33.411Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AdministrareCabane.cs",
+              "DocumentMoniker": "G:\\Proiect_BD\\Proiect_BD_Bun\\NivelAccesDate\\AdministrareCabane.cs",
+              "RelativeDocumentMoniker": "NivelAccesDate\\AdministrareCabane.cs",
+              "ToolTip": "G:\\Proiect_BD\\Proiect_BD_Bun\\NivelAccesDate\\AdministrareCabane.cs",
+              "RelativeToolTip": "NivelAccesDate\\AdministrareCabane.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAgwD4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T15:38:30.464Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Rezervari.cs",
+              "DocumentMoniker": "G:\\Proiect_BD\\Proiect_BD_Bun\\LibrarieModele\\Rezervari.cs",
+              "RelativeDocumentMoniker": "LibrarieModele\\Rezervari.cs",
+              "ToolTip": "G:\\Proiect_BD\\Proiect_BD_Bun\\LibrarieModele\\Rezervari.cs",
+              "RelativeToolTip": "LibrarieModele\\Rezervari.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T15:38:09.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Clienti.cs",
+              "DocumentMoniker": "G:\\Proiect_BD\\Proiect_BD_Bun\\LibrarieModele\\Clienti.cs",
+              "RelativeDocumentMoniker": "LibrarieModele\\Clienti.cs",
+              "ToolTip": "G:\\Proiect_BD\\Proiect_BD_Bun\\LibrarieModele\\Clienti.cs",
+              "RelativeToolTip": "LibrarieModele\\Clienti.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T15:38:17.737Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "NivelAccesDate.csproj",
+              "DocumentMoniker": "G:\\Proiect_BD\\Proiect_BD_Bun\\NivelAccesDate\\NivelAccesDate.csproj",
+              "RelativeDocumentMoniker": "NivelAccesDate\\NivelAccesDate.csproj",
+              "ToolTip": "G:\\Proiect_BD\\Proiect_BD_Bun\\NivelAccesDate\\NivelAccesDate.csproj",
+              "RelativeToolTip": "NivelAccesDate\\NivelAccesDate.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-24T19:57:18.27Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

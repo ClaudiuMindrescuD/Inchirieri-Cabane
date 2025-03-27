@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "SsyxKto0PVo=",
+  "success": true,
+  "projectFilePath": "G:\\Proiect_BD\\Proiect_BD_Bun\\LibrarieModele\\LibrarieModele.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mindr\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.30\\microsoft.windowsdesktop.app.ref.6.0.30.nupkg.sha512",
+    "C:\\Users\\mindr\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.30\\microsoft.netcore.app.ref.6.0.30.nupkg.sha512",
+    "C:\\Users\\mindr\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.30\\microsoft.aspnetcore.app.ref.6.0.30.nupkg.sha512"
+  ],
+  "logs": []
+}
